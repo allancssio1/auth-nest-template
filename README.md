@@ -10,6 +10,9 @@
 ## How to use this template?
 
 ```bash
+1 - Fork your repositories. Then clone the repository from your Github account.
+# .
+# Fork your repositories. Then clone the repository from your Github account.
 # Fork your repositories. Then clone the repository from your Github account.
 ```
 ## License
