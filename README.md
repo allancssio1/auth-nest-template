@@ -9,12 +9,11 @@
 
 ## How to use this template?
 
-```bash
-1 - Fork your repositories. Then clone the repository from your Github account.
-# .
-# Fork your repositories. Then clone the repository from your Github account.
-# Fork your repositories. Then clone the repository from your Github account.
-```
+1 - Create your Nest app by following the steps described in: https://docs.nestjs.com/first-steps
+2 - Fork your repositories. Then clone the repository from your Github account.
+3 - Enter the cloned folder and copy the src directory to the folder.
+4 - 
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
