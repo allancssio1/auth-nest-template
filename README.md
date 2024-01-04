@@ -11,7 +11,7 @@
 
 ```bash
 1 - Create your Nest app by following the steps described in:
-  [init][https://docs.nestjs.com/first-steps]
+  -> https://docs.nestjs.com/first-steps
 2 - Fork your repositories. Then clone the repository from your Github account.
 3 - Enter the cloned folder and copy the src directory to the folder.
 4 - 
